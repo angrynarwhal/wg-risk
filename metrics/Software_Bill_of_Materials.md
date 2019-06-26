@@ -5,7 +5,7 @@ A software package has a standard expression of dependencies, licensing, and sec
 For managers acquiring open source software as part of an IT or Open Source Program Office portfolio, the "Software Bill of Materials" ("SBOM") is an increasingly essential "core piece of management information".  This arises because, as software packages exist in complex software supply chains, it is important to clearly express, in a standardized way, the associated dependencies, licenses, and security-related issues with that software package. A Software Bill of Materials provides a single source document that provides this information both for internal use and downstream distribution of software packages. A Software Bill of Materials assists in how organizations routinize open source work to better integrate with their own open source risk management routines.
 
 ## 3. Formula
-This is an enumeration of a "bill of materials", as as such is not expressed as a metric. It is more accurate to consider this CHAOSS metric as an "inventory of components" that is uniquely important in many risk oriented open source software acquisition conversations. 
+This is an enumeration of a "bill of materials", as was such is not expressed as a metric. It is more accurate to consider this CHAOSS metric as an "inventory of components" that is uniquely important in many risk oriented open source software acquisition conversations. 
 
 ## 4. Sample Filter and Visualization
 DoSOCSv2 was used to scan the GitHub Repository. Here are some of the core license values from the scan, which may be used as an example of the format:
